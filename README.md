@@ -6,15 +6,15 @@ GradMatch is an intelligent, AI-driven platform designed to revolutionize the gr
 In an era where the graduate admissions landscape is increasingly competitive and complex, students often struggle with information overload, mismatched program selections, and suboptimal application strategies. GradMatch addresses these challenges by providing personalized, data-backed recommendations that align a student’s academic profile, research interests, career goals, professional experience, and personal preferences with the best-fitting graduate programs.
 Key Features
 
-Smart Profile Analysis: Users upload their academic transcripts, CV/resume, statement of purpose, test scores (GRE, GMAT, TOEFL/IELTS, etc.), and research interests. The AI engine extracts and evaluates key attributes with high accuracy.
-AI-Powered Matching Engine: Utilizes multi-dimensional similarity scoring, including program rankings, faculty expertise, funding opportunities, location preferences, alumni outcomes, and cultural fit.
-Predictive Admissions Insights: Estimates acceptance probabilities based on historical data, program-specific trends, and individualized strength assessments.
+    Smart Profile Analysis: Users upload their academic transcripts, CV/resume, statement of purpose, test scores (GRE, GMAT, TOEFL/IELTS, etc.), and research interests. The AI engine extracts and evaluates key attributes with high accuracy.
+    AI-Powered Matching Engine: Utilizes multi-dimensional similarity scoring, including program rankings, faculty expertise, funding opportunities, location preferences, alumni outcomes, and cultural fit.
+    Predictive Admissions Insights: Estimates acceptance probabilities based on historical data, program-specific trends, and individualized strength assessments.
 Personalized Recommendations & Roadmaps: Generates tailored lists of “reach,” “match,” and “safety” programs along with actionable application timelines and improvement suggestions.
 Real-Time Data Integration: Continuously aggregates information from thousands of universities, program websites, QS/THE rankings, and other authoritative sources.
 Mentorship & Application Support: Optional AI-assisted tools for drafting statements of purpose, recommendation letters, and interview preparation.
 Diversity & Inclusion Focus: Incorporates factors such as underrepresented backgrounds, non-traditional applicants, and international student needs.
 
-Target Audience
+    Target Audience
 
 Undergraduate students planning to pursue Master’s or PhD programs
 Working professionals seeking advanced degrees
