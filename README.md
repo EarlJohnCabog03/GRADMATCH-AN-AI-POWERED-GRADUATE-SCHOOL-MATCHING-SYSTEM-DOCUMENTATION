@@ -1,5 +1,8 @@
 # GRADMATCH-AN-AI-POWERED-GRADUATE-SCHOOL-MATCHING-SYSTEM-DOCUMENTATION
 
+GradMatch: An AI-Powered Graduate School Matching System
+
+GradMatch is an AI-powered graduate school matching system that helps students discover the most suitable graduate programs based on their academic background, skills, interests, and career goals. Using intelligent data analysis and explainable AI recommendations, the platform provides personalized school matches, compares program requirements, identifies qualification gaps, and offers insights to support informed decision-making. Built with a modern full-stack architecture, GradMatch streamlines the graduate school application process, making it more accurate, transparent, and accessible for aspiring students.
 
 Project Overview
 GradMatch is an intelligent, AI-driven platform designed to revolutionize the graduate school application process. By leveraging advanced machine learning algorithms, natural language processing (NLP), and comprehensive data analytics, GradMatch empowers prospective graduate students to discover, evaluate, and match with the most suitable graduate programs worldwide.
